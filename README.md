@@ -1,5 +1,5 @@
 # Likelihood-Probability
-Applying gradient descent to minimise the log-likelihood function
+Applying gradient descent to minimise the negative log-likelihood function
 
 ## Objective
 
